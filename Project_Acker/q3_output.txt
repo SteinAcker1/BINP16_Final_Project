@@ -1,0 +1,6230 @@
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: PciI
+Position: 37-43
+
+5'...ACATGT...3'
+3'...TGTACA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: PciI
+Position: 178-184
+
+5'...ACATGT...3'
+3'...TGTACA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: AflIII
+Position: 37-43
+
+5'...ACATGT...3'
+3'...TGTACA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: AflIII
+Position: 178-184
+
+5'...ACATGT...3'
+3'...TGTACA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: AluI
+Position: 104-108
+
+5'...AGCT...3'
+3'...TCGA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: AluI
+Position: 113-117
+
+5'...AGCT...3'
+3'...TCGA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: FatI
+Position: 38-42
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: FatI
+Position: 179-183
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: CviAII
+Position: 38-42
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: CviAII
+Position: 179-183
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: NlaIII
+Position: 38-42
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: NlaIII
+Position: 179-183
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: FspEI
+Position: 22-24
+
+5'...CC...3'
+3'...GG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: FspEI
+Position: 27-29
+
+5'...CC...3'
+3'...GG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: FspEI
+Position: 80-82
+
+5'...CC...3'
+3'...GG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: FspEI
+Position: 125-127
+
+5'...CC...3'
+3'...GG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: FspEI
+Position: 137-139
+
+5'...CC...3'
+3'...GG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: FspEI
+Position: 141-143
+
+5'...CC...3'
+3'...GG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: FspEI
+Position: 146-148
+
+5'...CC...3'
+3'...GG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: FspEI
+Position: 201-203
+
+5'...CC...3'
+3'...GG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: Nt.CviPII
+Position: 22-25
+
+5'...CCT...3'
+3'...GGA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: Nt.CviPII
+Position: 27-30
+
+5'...CCA...3'
+3'...GGT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: Nt.CviPII
+Position: 80-83
+
+5'...CCG...3'
+3'...GGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: Nt.CviPII
+Position: 125-128
+
+5'...CCT...3'
+3'...GGA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: Nt.CviPII
+Position: 137-140
+
+5'...CCG...3'
+3'...GGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: Nt.CviPII
+Position: 141-144
+
+5'...CCG...3'
+3'...GGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: Nt.CviPII
+Position: 146-149
+
+5'...CCG...3'
+3'...GGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: Nt.CviPII
+Position: 201-204
+
+5'...CCT...3'
+3'...GGA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: LpnPI
+Position: 80-84
+
+5'...CCGG...3'
+3'...GGCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: LpnPI
+Position: 125-129
+
+5'...CCTG...3'
+3'...GGAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: LpnPI
+Position: 137-141
+
+5'...CCGG...3'
+3'...GGCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: MspI HpaII
+Position: 80-84
+
+5'...CCGG...3'
+3'...GGCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: MspI HpaII
+Position: 137-141
+
+5'...CCGG...3'
+3'...GGCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: MnlI
+Position: 201-205
+
+5'...CCTC...3'
+3'...GGAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: BcgI
+Position: 109-121
+
+5'...CGACAGCTATGC...3'
+3'...GCTGTCGATACG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: BstUI
+Position: 13-17
+
+5'...CGCG...3'
+3'...GCGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: BstUI
+Position: 47-51
+
+5'...CGCG...3'
+3'...GCGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: BstUI
+Position: 170-174
+
+5'...CGCG...3'
+3'...GCGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: BstUI
+Position: 204-208
+
+5'...CGCG...3'
+3'...GCGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: EagI EagI-HF®
+Position: 77-83
+
+5'...CGGCCG...3'
+3'...GCCGGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: EagI EagI-HF®
+Position: 138-144
+
+5'...CGGCCG...3'
+3'...GCCGGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: BsiEI
+Position: 77-83
+
+5'...CGGCCG...3'
+3'...GCCGGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: BsiEI
+Position: 138-144
+
+5'...CGGCCG...3'
+3'...GCCGGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: Hpy99I
+Position: 44-49
+
+5'...CGTCG...3'
+3'...GCAGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: Hpy99I
+Position: 172-177
+
+5'...CGACG...3'
+3'...GCTGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: AbaSI
+Position: 15-37
+
+5'...CGAGGAACCTTACCAACACTTG...3'
+3'...GCTCCTTGGAATGGTTGTGAAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: AbaSI
+Position: 52-74
+
+5'...CTTTAAGAGATTAAAGTTTTCG...3'
+3'...GAAATTCTCTAATTTCAAAAGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: AbaSI
+Position: 109-131
+
+5'...CGACAGCTATGCAACACCTGTG...3'
+3'...GCTGTCGATACGTTGTGGACAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: AbaSI
+Position: 147-169
+
+5'...CGAAAACTTTAATCTCTTAAAG...3'
+3'...GCTTTTGAAATTAGAGAATTTC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: AbaSI
+Position: 172-194
+
+5'...CGACGAACATGTCAAGTGTTGG...3'
+3'...GCTGCTTGTACAGTTCACAACC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: MspJI
+Position: 7-11
+
+5'...CTCA...3'
+3'...GAGT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: MspJI
+Position: 13-17
+
+5'...CGCG...3'
+3'...GCGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: MspJI
+Position: 23-27
+
+5'...CTTA...3'
+3'...GAAT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: MspJI
+Position: 27-31
+
+5'...CCAA...3'
+3'...GGTT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: MspJI
+Position: 33-37
+
+5'...CTTG...3'
+3'...GAAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: MspJI
+Position: 38-42
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: MspJI
+Position: 47-51
+
+5'...CGCG...3'
+3'...GCGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: MspJI
+Position: 80-84
+
+5'...CCGG...3'
+3'...GGCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: MspJI
+Position: 85-89
+
+5'...CGAA...3'
+3'...GCTT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: MspJI
+Position: 90-94
+
+5'...CACA...3'
+3'...GTGT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: MspJI
+Position: 101-105
+
+5'...CATA...3'
+3'...GTAT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: MspJI
+Position: 125-129
+
+5'...CCTG...3'
+3'...GGAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: MspJI
+Position: 137-141
+
+5'...CCGG...3'
+3'...GGCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: MspJI
+Position: 141-145
+
+5'...CCGA...3'
+3'...GGCT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: MspJI
+Position: 146-150
+
+5'...CCGA...3'
+3'...GGCT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: MspJI
+Position: 162-166
+
+5'...CTTA...3'
+3'...GAAT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: MspJI
+Position: 170-174
+
+5'...CGCG...3'
+3'...GCGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: MspJI
+Position: 175-179
+
+5'...CGAA...3'
+3'...GCTT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: MspJI
+Position: 179-183
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: MspJI
+Position: 184-188
+
+5'...CAAG...3'
+3'...GTTC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: MspJI
+Position: 202-206
+
+5'...CTCG...3'
+3'...GAGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: MspJI
+Position: 206-210
+
+5'...CGTA...3'
+3'...GCAT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: DrdI
+Position: 36-48
+
+5'...GACATGTTCGTC...3'
+3'...CTGTACAAGCAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: DrdI
+Position: 173-185
+
+5'...GACGAACATGTC...3'
+3'...CTGCTTGTACAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: Nt.BstNBI
+Position: 211-216
+
+5'...GAGTC...3'
+3'...CTCAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: MlyI
+Position: 211-216
+
+5'...GAGTC...3'
+3'...CTCAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: PleI
+Position: 211-216
+
+5'...GAGTC...3'
+3'...CTCAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: HinfI
+Position: 5-10
+
+5'...GACTC...3'
+3'...CTGAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: HinfI
+Position: 211-216
+
+5'...GAGTC...3'
+3'...CTCAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: Fnu4HI
+Position: 105-110
+
+5'...GCTGC...3'
+3'...CGACG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: MwoI
+Position: 105-116
+
+5'...GCTGCGACAGC...3'
+3'...CGACGCTGTCG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: TseI ApeKI
+Position: 105-110
+
+5'...GCTGC...3'
+3'...CGACG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: HaeIII
+Position: 78-82
+
+5'...GGCC...3'
+3'...CCGG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: HaeIII
+Position: 139-143
+
+5'...GGCC...3'
+3'...CCGG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: NlaIV
+Position: 18-24
+
+5'...GGAACC...3'
+3'...CCTTGG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: NlaIV
+Position: 197-203
+
+5'...GGTTCC...3'
+3'...CCAAGG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: NspI
+Position: 37-43
+
+5'...ACATGT...3'
+3'...TGTACA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: NspI
+Position: 178-184
+
+5'...ACATGT...3'
+3'...TGTACA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: CviKI-1
+Position: 78-82
+
+5'...GGCC...3'
+3'...CCGG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: CviKI-1
+Position: 104-108
+
+5'...AGCT...3'
+3'...TCGA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: CviKI-1
+Position: 113-117
+
+5'...AGCT...3'
+3'...TCGA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: CviKI-1
+Position: 139-143
+
+5'...GGCC...3'
+3'...CCGG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: NruI NruI-HF®
+Position: 46-52
+
+5'...TCGCGA...3'
+3'...AGCGCT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: NruI NruI-HF®
+Position: 169-175
+
+5'...TCGCGA...3'
+3'...AGCGCT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: Hpy188III
+Position: 46-52
+
+5'...TCGCGA...3'
+3'...AGCGCT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: Hpy188III
+Position: 169-175
+
+5'...TCGCGA...3'
+3'...AGCGCT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: HpyCH4V
+Position: 99-103
+
+5'...TGCA...3'
+3'...ACGT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: HpyCH4V
+Position: 118-122
+
+5'...TGCA...3'
+3'...ACGT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: MseI
+Position: 54-58
+
+5'...TTAA...3'
+3'...AATT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: MseI
+Position: 62-66
+
+5'...TTAA...3'
+3'...AATT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: MseI
+Position: 155-159
+
+5'...TTAA...3'
+3'...AATT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: MseI
+Position: 163-167
+
+5'...TTAA...3'
+3'...AATT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: EaeI
+Position: 77-83
+
+5'...CGGCCG...3'
+3'...GCCGGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: EaeI
+Position: 138-144
+
+5'...CGGCCG...3'
+3'...GCCGGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: FspEI
+Position: 18-20
+
+5'...GG...3'
+3'...CC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: FspEI
+Position: 73-75
+
+5'...GG...3'
+3'...CC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: FspEI
+Position: 78-80
+
+5'...GG...3'
+3'...CC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: FspEI
+Position: 82-84
+
+5'...GG...3'
+3'...CC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: FspEI
+Position: 94-96
+
+5'...GG...3'
+3'...CC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: FspEI
+Position: 139-141
+
+5'...GG...3'
+3'...CC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: FspEI
+Position: 192-194
+
+5'...GG...3'
+3'...CC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: FspEI
+Position: 197-199
+
+5'...GG...3'
+3'...CC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: Nt.CviPII
+Position: 17-20
+
+5'...AGG...3'
+3'...TCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: Nt.CviPII
+Position: 72-75
+
+5'...CGG...3'
+3'...GCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: Nt.CviPII
+Position: 77-80
+
+5'...CGG...3'
+3'...GCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: Nt.CviPII
+Position: 81-84
+
+5'...CGG...3'
+3'...GCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: Nt.CviPII
+Position: 93-96
+
+5'...AGG...3'
+3'...TCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: Nt.CviPII
+Position: 138-141
+
+5'...CGG...3'
+3'...GCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: Nt.CviPII
+Position: 191-194
+
+5'...TGG...3'
+3'...ACC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: Nt.CviPII
+Position: 196-199
+
+5'...AGG...3'
+3'...TCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: LpnPI
+Position: 92-96
+
+5'...CAGG...3'
+3'...GTCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: MnlI
+Position: 16-20
+
+5'...GAGG...3'
+3'...CTCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: MspJI
+Position: 2-6
+
+5'...TTTG...3'
+3'...AAAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: MspJI
+Position: 11-15
+
+5'...TACG...3'
+3'...ATGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: MspJI
+Position: 15-19
+
+5'...CGAG...3'
+3'...GCTC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: MspJI
+Position: 42-46
+
+5'...TTCG...3'
+3'...AAGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: MspJI
+Position: 55-59
+
+5'...TAAG...3'
+3'...ATTC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: MspJI
+Position: 70-74
+
+5'...TTCG...3'
+3'...AAGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: MspJI
+Position: 75-79
+
+5'...TTCG...3'
+3'...AAGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: MspJI
+Position: 92-96
+
+5'...CAGG...3'
+3'...GTCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: MspJI
+Position: 107-111
+
+5'...TGCG...3'
+3'...ACGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: MspJI
+Position: 116-120
+
+5'...TATG...3'
+3'...ATAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: MspJI
+Position: 132-136
+
+5'...TTCG...3'
+3'...AAGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: MspJI
+Position: 136-140
+
+5'...TCCG...3'
+3'...AGGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: MspJI
+Position: 190-194
+
+5'...TTGG...3'
+3'...AACC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: MspJI
+Position: 194-198
+
+5'...TAAG...3'
+3'...ATTC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: MspJI
+Position: 208-212
+
+5'...TATG...3'
+3'...ATAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: Nt.BstNBI
+Position: 5-10
+
+5'...GACTC...3'
+3'...CTGAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: MlyI
+Position: 5-10
+
+5'...GACTC...3'
+3'...CTGAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: PleI
+Position: 5-10
+
+5'...GACTC...3'
+3'...CTGAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2104 D4ZHLFP1:52:D237LACXX:3:1101:20716:19279 length=216
+Enzyme: BbvI
+Position: 105-110
+
+5'...GCTGC...3'
+3'...CGACG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: PciI
+Position: 37-43
+
+5'...ACATGT...3'
+3'...TGTACA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: PciI
+Position: 178-184
+
+5'...ACATGT...3'
+3'...TGTACA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: AflIII
+Position: 37-43
+
+5'...ACATGT...3'
+3'...TGTACA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: AflIII
+Position: 178-184
+
+5'...ACATGT...3'
+3'...TGTACA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: NsiI NsiI-HF®
+Position: 98-104
+
+5'...ATGCAT...3'
+3'...TACGTA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: NsiI NsiI-HF®
+Position: 117-123
+
+5'...ATGCAT...3'
+3'...TACGTA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: FatI
+Position: 38-42
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: FatI
+Position: 101-105
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: FatI
+Position: 116-120
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: FatI
+Position: 179-183
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: CviAII
+Position: 38-42
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: CviAII
+Position: 101-105
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: CviAII
+Position: 116-120
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: CviAII
+Position: 179-183
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: NlaIII
+Position: 38-42
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: NlaIII
+Position: 101-105
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: NlaIII
+Position: 116-120
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: NlaIII
+Position: 179-183
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: FspEI
+Position: 22-24
+
+5'...CC...3'
+3'...GG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: FspEI
+Position: 27-29
+
+5'...CC...3'
+3'...GG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: FspEI
+Position: 115-117
+
+5'...CC...3'
+3'...GG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: FspEI
+Position: 125-127
+
+5'...CC...3'
+3'...GG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: FspEI
+Position: 137-139
+
+5'...CC...3'
+3'...GG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: FspEI
+Position: 141-143
+
+5'...CC...3'
+3'...GG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: FspEI
+Position: 201-203
+
+5'...CC...3'
+3'...GG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: Nt.CviPII
+Position: 22-25
+
+5'...CCT...3'
+3'...GGA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: Nt.CviPII
+Position: 27-30
+
+5'...CCA...3'
+3'...GGT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: Nt.CviPII
+Position: 115-118
+
+5'...CCA...3'
+3'...GGT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: Nt.CviPII
+Position: 125-128
+
+5'...CCT...3'
+3'...GGA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: Nt.CviPII
+Position: 137-140
+
+5'...CCA...3'
+3'...GGT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: Nt.CviPII
+Position: 141-144
+
+5'...CCG...3'
+3'...GGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: Nt.CviPII
+Position: 201-204
+
+5'...CCT...3'
+3'...GGA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: LpnPI
+Position: 125-129
+
+5'...CCTG...3'
+3'...GGAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: LpnPI
+Position: 137-141
+
+5'...CCAG...3'
+3'...GGTC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: MnlI
+Position: 201-205
+
+5'...CCTC...3'
+3'...GGAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: BcgI
+Position: 109-121
+
+5'...CGACAGCCATGC...3'
+3'...GCTGTCGGTACG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: BstUI
+Position: 13-17
+
+5'...CGCG...3'
+3'...GCGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: BstUI
+Position: 47-51
+
+5'...CGCG...3'
+3'...GCGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: BstUI
+Position: 170-174
+
+5'...CGCG...3'
+3'...GCGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: BstUI
+Position: 204-208
+
+5'...CGCG...3'
+3'...GCGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: Hpy99I
+Position: 44-49
+
+5'...CGTCG...3'
+3'...GCAGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: Hpy99I
+Position: 172-177
+
+5'...CGACG...3'
+3'...GCTGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: AbaSI
+Position: 15-37
+
+5'...CGAGGAACCTTACCAACACTTG...3'
+3'...GCTCCTTGGAATGGTTGTGAAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: AbaSI
+Position: 44-66
+
+5'...CGTCGCGAGACTAAGAGATTAG...3'
+3'...GCAGCGCTCTGATTCTCTAATC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: AbaSI
+Position: 109-131
+
+5'...CGACAGCCATGCATCACCTGTG...3'
+3'...GCTGTCGGTACGTAGTGGACAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: AbaSI
+Position: 155-177
+
+5'...CTAATCTCTTAGTCTCGCGACG...3'
+3'...GATTAGAGAATCAGAGCGCTGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: AbaSI
+Position: 184-206
+
+5'...CAAGTGTTGGTAAGGTTCCTCG...3'
+3'...GTTCACAACCATTCCAAGGAGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: MspJI
+Position: 7-11
+
+5'...CTCA...3'
+3'...GAGT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: MspJI
+Position: 13-17
+
+5'...CGCG...3'
+3'...GCGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: MspJI
+Position: 23-27
+
+5'...CTTA...3'
+3'...GAAT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: MspJI
+Position: 27-31
+
+5'...CCAA...3'
+3'...GGTT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: MspJI
+Position: 33-37
+
+5'...CTTG...3'
+3'...GAAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: MspJI
+Position: 38-42
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: MspJI
+Position: 47-51
+
+5'...CGCG...3'
+3'...GCGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: MspJI
+Position: 54-58
+
+5'...CTAA...3'
+3'...GATT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: MspJI
+Position: 80-84
+
+5'...CTGG...3'
+3'...GACC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: MspJI
+Position: 85-89
+
+5'...CGAA...3'
+3'...GCTT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: MspJI
+Position: 90-94
+
+5'...CACA...3'
+3'...GTGT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: MspJI
+Position: 101-105
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: MspJI
+Position: 116-120
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: MspJI
+Position: 125-129
+
+5'...CCTG...3'
+3'...GGAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: MspJI
+Position: 137-141
+
+5'...CCAG...3'
+3'...GGTC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: MspJI
+Position: 141-145
+
+5'...CCGA...3'
+3'...GGCT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: MspJI
+Position: 146-150
+
+5'...CTGA...3'
+3'...GACT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: MspJI
+Position: 155-159
+
+5'...CTAA...3'
+3'...GATT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: MspJI
+Position: 162-166
+
+5'...CTTA...3'
+3'...GAAT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: MspJI
+Position: 168-172
+
+5'...CTCG...3'
+3'...GAGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: MspJI
+Position: 175-179
+
+5'...CGAA...3'
+3'...GCTT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: MspJI
+Position: 179-183
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: MspJI
+Position: 184-188
+
+5'...CAAG...3'
+3'...GTTC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: MspJI
+Position: 202-206
+
+5'...CTCG...3'
+3'...GAGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: MspJI
+Position: 206-210
+
+5'...CGTA...3'
+3'...GCAT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: DdeI
+Position: 54-59
+
+5'...CTAAG...3'
+3'...GATTC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: DdeI
+Position: 162-167
+
+5'...CTTAG...3'
+3'...GAATC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: DrdI
+Position: 36-48
+
+5'...GACATGTTCGTC...3'
+3'...CTGTACAAGCAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: DrdI
+Position: 173-185
+
+5'...GACGAACATGTC...3'
+3'...CTGCTTGTACAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: Nt.BstNBI
+Position: 211-216
+
+5'...GAGTC...3'
+3'...CTCAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: MlyI
+Position: 211-216
+
+5'...GAGTC...3'
+3'...CTCAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: PleI
+Position: 211-216
+
+5'...GAGTC...3'
+3'...CTCAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: HinfI
+Position: 5-10
+
+5'...GACTC...3'
+3'...CTGAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: HinfI
+Position: 211-216
+
+5'...GAGTC...3'
+3'...CTCAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: SfaNI
+Position: 119-124
+
+5'...GCATC...3'
+3'...CGTAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: Fnu4HI
+Position: 105-110
+
+5'...GCTGC...3'
+3'...CGACG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: MwoI
+Position: 105-116
+
+5'...GCTGCGACAGC...3'
+3'...CGACGCTGTCG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: TseI ApeKI
+Position: 105-110
+
+5'...GCTGC...3'
+3'...CGACG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: NlaIV
+Position: 18-24
+
+5'...GGAACC...3'
+3'...CCTTGG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: NlaIV
+Position: 197-203
+
+5'...GGTTCC...3'
+3'...CCAAGG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: HphI
+Position: 94-99
+
+5'...GGTGA...3'
+3'...CCACT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: Nt.BsmAI
+Position: 166-171
+
+5'...GTCTC...3'
+3'...CAGAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: BsmAI BcoDI
+Position: 166-171
+
+5'...GTCTC...3'
+3'...CAGAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: NspI
+Position: 37-43
+
+5'...ACATGT...3'
+3'...TGTACA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: NspI
+Position: 178-184
+
+5'...ACATGT...3'
+3'...TGTACA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: CviKI-1
+Position: 78-82
+
+5'...GGCT...3'
+3'...CCGA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: CviKI-1
+Position: 104-108
+
+5'...GGCT...3'
+3'...CCGA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: CviKI-1
+Position: 113-117
+
+5'...AGCC...3'
+3'...TCGG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: CviKI-1
+Position: 139-143
+
+5'...AGCC...3'
+3'...TCGG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: NruI NruI-HF®
+Position: 46-52
+
+5'...TCGCGA...3'
+3'...AGCGCT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: NruI NruI-HF®
+Position: 169-175
+
+5'...TCGCGA...3'
+3'...AGCGCT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: Hpy188III
+Position: 46-52
+
+5'...TCGCGA...3'
+3'...AGCGCT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: Hpy188III
+Position: 169-175
+
+5'...TCGCGA...3'
+3'...AGCGCT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: HpyCH4V
+Position: 99-103
+
+5'...TGCA...3'
+3'...ACGT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: HpyCH4V
+Position: 118-122
+
+5'...TGCA...3'
+3'...ACGT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: FspEI
+Position: 18-20
+
+5'...GG...3'
+3'...CC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: FspEI
+Position: 78-80
+
+5'...GG...3'
+3'...CC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: FspEI
+Position: 82-84
+
+5'...GG...3'
+3'...CC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: FspEI
+Position: 94-96
+
+5'...GG...3'
+3'...CC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: FspEI
+Position: 104-106
+
+5'...GG...3'
+3'...CC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: FspEI
+Position: 192-194
+
+5'...GG...3'
+3'...CC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: FspEI
+Position: 197-199
+
+5'...GG...3'
+3'...CC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: Nt.CviPII
+Position: 17-20
+
+5'...AGG...3'
+3'...TCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: Nt.CviPII
+Position: 77-80
+
+5'...CGG...3'
+3'...GCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: Nt.CviPII
+Position: 81-84
+
+5'...TGG...3'
+3'...ACC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: Nt.CviPII
+Position: 93-96
+
+5'...AGG...3'
+3'...TCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: Nt.CviPII
+Position: 103-106
+
+5'...TGG...3'
+3'...ACC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: Nt.CviPII
+Position: 191-194
+
+5'...TGG...3'
+3'...ACC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: Nt.CviPII
+Position: 196-199
+
+5'...AGG...3'
+3'...TCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: LpnPI
+Position: 80-84
+
+5'...CTGG...3'
+3'...GACC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: LpnPI
+Position: 92-96
+
+5'...CAGG...3'
+3'...GTCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: MnlI
+Position: 16-20
+
+5'...GAGG...3'
+3'...CTCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: MspJI
+Position: 2-6
+
+5'...TTTG...3'
+3'...AAAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: MspJI
+Position: 11-15
+
+5'...TACG...3'
+3'...ATGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: MspJI
+Position: 15-19
+
+5'...CGAG...3'
+3'...GCTC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: MspJI
+Position: 42-46
+
+5'...TTCG...3'
+3'...AAGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: MspJI
+Position: 55-59
+
+5'...TAAG...3'
+3'...ATTC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: MspJI
+Position: 62-66
+
+5'...TTAG...3'
+3'...AATC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: MspJI
+Position: 71-75
+
+5'...TCAG...3'
+3'...AGTC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: MspJI
+Position: 75-79
+
+5'...TTCG...3'
+3'...AAGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: MspJI
+Position: 92-96
+
+5'...CAGG...3'
+3'...GTCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: MspJI
+Position: 107-111
+
+5'...TGCG...3'
+3'...ACGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: MspJI
+Position: 132-136
+
+5'...TTCG...3'
+3'...AAGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: MspJI
+Position: 163-167
+
+5'...TTAG...3'
+3'...AATC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: MspJI
+Position: 190-194
+
+5'...TTGG...3'
+3'...AACC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: MspJI
+Position: 194-198
+
+5'...TAAG...3'
+3'...ATTC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: MspJI
+Position: 208-212
+
+5'...TATG...3'
+3'...ATAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: Nt.BstNBI
+Position: 5-10
+
+5'...GACTC...3'
+3'...CTGAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: MlyI
+Position: 5-10
+
+5'...GACTC...3'
+3'...CTGAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: PleI
+Position: 5-10
+
+5'...GACTC...3'
+3'...CTGAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: BbvI
+Position: 105-110
+
+5'...GCTGC...3'
+3'...CGACG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: SfaNI
+Position: 97-102
+
+5'...GATGC...3'
+3'...CTACG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: HphI
+Position: 122-127
+
+5'...TCACC...3'
+3'...AGTGG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: Nt.BsmAI
+Position: 50-55
+
+5'...GAGAC...3'
+3'...CTCTG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2119 D4ZHLFP1:52:D237LACXX:3:1101:6321:19689 length=216
+Enzyme: BsmAI BcoDI
+Position: 50-55
+
+5'...GAGAC...3'
+3'...CTCTG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: BceAI
+Position: 111-116
+
+5'...ACGGC...3'
+3'...TGCCG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: AluI
+Position: 77-81
+
+5'...AGCT...3'
+3'...TCGA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: AluI
+Position: 147-151
+
+5'...AGCT...3'
+3'...TCGA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: NsiI NsiI-HF®
+Position: 117-123
+
+5'...ATGCAT...3'
+3'...TACGTA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: FatI
+Position: 44-48
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: FatI
+Position: 91-95
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: FatI
+Position: 116-120
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: FatI
+Position: 133-137
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: FatI
+Position: 180-184
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: CviAII
+Position: 44-48
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: CviAII
+Position: 91-95
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: CviAII
+Position: 116-120
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: CviAII
+Position: 133-137
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: CviAII
+Position: 180-184
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: NlaIII
+Position: 44-48
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: NlaIII
+Position: 91-95
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: NlaIII
+Position: 116-120
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: NlaIII
+Position: 133-137
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: NlaIII
+Position: 180-184
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: MslI
+Position: 38-48
+
+5'...CATATTCATG...3'
+3'...GTATAAGTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: MslI
+Position: 180-190
+
+5'...CATGAATATG...3'
+3'...GTACTTATAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: FspEI
+Position: 22-24
+
+5'...CC...3'
+3'...GG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: FspEI
+Position: 27-29
+
+5'...CC...3'
+3'...GG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: FspEI
+Position: 68-70
+
+5'...CC...3'
+3'...GG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: FspEI
+Position: 108-110
+
+5'...CC...3'
+3'...GG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: FspEI
+Position: 115-117
+
+5'...CC...3'
+3'...GG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: FspEI
+Position: 125-127
+
+5'...CC...3'
+3'...GG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: FspEI
+Position: 196-198
+
+5'...CC...3'
+3'...GG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: FspEI
+Position: 208-210
+
+5'...CC...3'
+3'...GG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: Nt.CviPII
+Position: 22-25
+
+5'...CCT...3'
+3'...GGA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: Nt.CviPII
+Position: 27-30
+
+5'...CCT...3'
+3'...GGA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: Nt.CviPII
+Position: 69-72
+
+5'...CCT...3'
+3'...GGA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: Nt.CviPII
+Position: 108-111
+
+5'...CCG...3'
+3'...GGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: Nt.CviPII
+Position: 115-118
+
+5'...CCA...3'
+3'...GGT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: Nt.CviPII
+Position: 125-128
+
+5'...CCT...3'
+3'...GGA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: Nt.CviPII
+Position: 196-199
+
+5'...CCA...3'
+3'...GGT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: Nt.CviPII
+Position: 208-211
+
+5'...CCT...3'
+3'...GGA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: LpnPI
+Position: 27-31
+
+5'...CCTG...3'
+3'...GGAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: LpnPI
+Position: 125-129
+
+5'...CCTG...3'
+3'...GGAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: LpnPI
+Position: 196-200
+
+5'...CCAG...3'
+3'...GGTC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: StyD4I
+Position: 27-32
+
+5'...CCTGG...3'
+3'...GGACC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: StyD4I
+Position: 196-201
+
+5'...CCAGG...3'
+3'...GGTCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: ScrFI
+Position: 27-32
+
+5'...CCTGG...3'
+3'...GGACC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: ScrFI
+Position: 196-201
+
+5'...CCAGG...3'
+3'...GGTCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: MnlI
+Position: 69-73
+
+5'...CCTC...3'
+3'...GGAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: MnlI
+Position: 208-212
+
+5'...CCTC...3'
+3'...GGAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: PspGI
+Position: 27-32
+
+5'...CCTGG...3'
+3'...GGACC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: PspGI
+Position: 196-201
+
+5'...CCAGG...3'
+3'...GGTCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: BstNI
+Position: 27-32
+
+5'...CCTGG...3'
+3'...GGACC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: BstNI
+Position: 196-201
+
+5'...CCAGG...3'
+3'...GGTCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: BcgI
+Position: 109-121
+
+5'...CGACGGCCATGC...3'
+3'...GCTGCCGGTACG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: BstUI
+Position: 13-17
+
+5'...CGCG...3'
+3'...GCGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: BstUI
+Position: 211-215
+
+5'...CGCG...3'
+3'...GCGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: Hpy99I
+Position: 109-114
+
+5'...CGACG...3'
+3'...GCTGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: AbaSI
+Position: 9-31
+
+5'...CATACGCGAGGAACCTTACCTG...3'
+3'...GTATGCGCTCCTTGGAATGGAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: AbaSI
+Position: 44-66
+
+5'...CATGAAAACTCTGTGAAAGCAG...3'
+3'...GTACTTTTGAGACACTTTCGTC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: AbaSI
+Position: 68-90
+
+5'...CCCTCTGCGAGCTTGCTCAAAG...3'
+3'...GGGAGACGCTCGAACGAGTTTC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: AbaSI
+Position: 115-137
+
+5'...CCATGCATCACCTGTAATCATG...3'
+3'...GGTACGTAGTGGACATTAGTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: AbaSI
+Position: 138-160
+
+5'...CTTTGAGCAAGCTCGCAGAGGG...3'
+3'...GAAACTCGTTCGAGCGTCTCCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: AbaSI
+Position: 162-184
+
+5'...CTGCTTTCACAGAGTTTTCATG...3'
+3'...GACGAAAGTGTCTCAAAAGTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: AbaSI
+Position: 191-213
+
+5'...CAAGTCCAGGTAAGGTTCCTCG...3'
+3'...GTTCAGGTCCATTCCAAGGAGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: MspJI
+Position: 7-11
+
+5'...CTCA...3'
+3'...GAGT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: MspJI
+Position: 13-17
+
+5'...CGCG...3'
+3'...GCGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: MspJI
+Position: 23-27
+
+5'...CTTA...3'
+3'...GAAT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: MspJI
+Position: 27-31
+
+5'...CCTG...3'
+3'...GGAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: MspJI
+Position: 33-37
+
+5'...CTTG...3'
+3'...GAAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: MspJI
+Position: 38-42
+
+5'...CATA...3'
+3'...GTAT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: MspJI
+Position: 44-48
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: MspJI
+Position: 63-67
+
+5'...CAGA...3'
+3'...GTCT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: MspJI
+Position: 75-79
+
+5'...CGAG...3'
+3'...GCTC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: MspJI
+Position: 79-83
+
+5'...CTTG...3'
+3'...GAAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: MspJI
+Position: 83-87
+
+5'...CTCA...3'
+3'...GAGT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: MspJI
+Position: 91-95
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: MspJI
+Position: 99-103
+
+5'...CAGG...3'
+3'...GTCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: MspJI
+Position: 108-112
+
+5'...CCGA...3'
+3'...GGCT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: MspJI
+Position: 116-120
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: MspJI
+Position: 125-129
+
+5'...CCTG...3'
+3'...GGAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: MspJI
+Position: 133-137
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: MspJI
+Position: 145-149
+
+5'...CAAG...3'
+3'...GTTC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: MspJI
+Position: 149-153
+
+5'...CTCG...3'
+3'...GAGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: MspJI
+Position: 153-157
+
+5'...CAGA...3'
+3'...GTCT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: MspJI
+Position: 169-173
+
+5'...CACA...3'
+3'...GTGT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: MspJI
+Position: 180-184
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: MspJI
+Position: 191-195
+
+5'...CAAG...3'
+3'...GTTC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: MspJI
+Position: 196-200
+
+5'...CCAG...3'
+3'...GGTC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: MspJI
+Position: 209-213
+
+5'...CTCG...3'
+3'...GAGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: MspJI
+Position: 213-217
+
+5'...CGTA...3'
+3'...GCAT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: HinfI
+Position: 5-10
+
+5'...GACTC...3'
+3'...CTGAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: SfaNI
+Position: 119-124
+
+5'...GCATC...3'
+3'...CGTAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: Cac8I
+Position: 74-80
+
+5'...GCGAGC...3'
+3'...CGCTCG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: Cac8I
+Position: 144-150
+
+5'...GCAAGC...3'
+3'...CGTTCG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: Bsp1286I
+Position: 65-71
+
+5'...GAGCCC...3'
+3'...CTCGGG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: Bsp1286I
+Position: 157-163
+
+5'...GGGCTC...3'
+3'...CCCGAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: HaeIII
+Position: 113-117
+
+5'...GGCC...3'
+3'...CCGG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: NlaIV
+Position: 18-24
+
+5'...GGAACC...3'
+3'...CCTTGG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: NlaIV
+Position: 204-210
+
+5'...GGTTCC...3'
+3'...CCAAGG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: HphI
+Position: 101-106
+
+5'...GGTGA...3'
+3'...CCACT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: BanII
+Position: 65-71
+
+5'...GAGCCC...3'
+3'...CTCGGG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: BanII
+Position: 157-163
+
+5'...GGGCTC...3'
+3'...CCCGAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: CviKI-1
+Position: 66-70
+
+5'...AGCC...3'
+3'...TCGG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: CviKI-1
+Position: 77-81
+
+5'...AGCT...3'
+3'...TCGA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: CviKI-1
+Position: 113-117
+
+5'...GGCC...3'
+3'...CCGG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: CviKI-1
+Position: 147-151
+
+5'...AGCT...3'
+3'...TCGA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: CviKI-1
+Position: 158-162
+
+5'...GGCT...3'
+3'...CCGA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: BspHI
+Position: 43-49
+
+5'...TCATGA...3'
+3'...AGTACT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: BspHI
+Position: 179-185
+
+5'...TCATGA...3'
+3'...AGTACT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: Hpy188III
+Position: 43-49
+
+5'...TCATGA...3'
+3'...AGTACT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: Hpy188III
+Position: 179-185
+
+5'...TCATGA...3'
+3'...AGTACT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: HpyCH4V
+Position: 118-122
+
+5'...TGCA...3'
+3'...ACGT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: EaeI
+Position: 112-118
+
+5'...CGGCCA...3'
+3'...GCCGGT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: FspEI
+Position: 18-20
+
+5'...GG...3'
+3'...CC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: FspEI
+Position: 30-32
+
+5'...GG...3'
+3'...CC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: FspEI
+Position: 101-103
+
+5'...GG...3'
+3'...CC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: FspEI
+Position: 113-115
+
+5'...GG...3'
+3'...CC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: FspEI
+Position: 157-159
+
+5'...GG...3'
+3'...CC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: FspEI
+Position: 199-201
+
+5'...GG...3'
+3'...CC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: FspEI
+Position: 204-206
+
+5'...GG...3'
+3'...CC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: Nt.CviPII
+Position: 17-20
+
+5'...AGG...3'
+3'...TCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: Nt.CviPII
+Position: 29-32
+
+5'...TGG...3'
+3'...ACC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: Nt.CviPII
+Position: 100-103
+
+5'...AGG...3'
+3'...TCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: Nt.CviPII
+Position: 112-115
+
+5'...CGG...3'
+3'...GCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: Nt.CviPII
+Position: 156-159
+
+5'...AGG...3'
+3'...TCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: Nt.CviPII
+Position: 198-201
+
+5'...AGG...3'
+3'...TCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: Nt.CviPII
+Position: 203-206
+
+5'...AGG...3'
+3'...TCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: LpnPI
+Position: 28-32
+
+5'...CTGG...3'
+3'...GACC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: LpnPI
+Position: 99-103
+
+5'...CAGG...3'
+3'...GTCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: LpnPI
+Position: 197-201
+
+5'...CAGG...3'
+3'...GTCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: MnlI
+Position: 16-20
+
+5'...GAGG...3'
+3'...CTCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: MnlI
+Position: 155-159
+
+5'...GAGG...3'
+3'...CTCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: MspJI
+Position: 11-15
+
+5'...TACG...3'
+3'...ATGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: MspJI
+Position: 15-19
+
+5'...CGAG...3'
+3'...GCTC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: MspJI
+Position: 53-57
+
+5'...TCTG...3'
+3'...AGAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: MspJI
+Position: 71-75
+
+5'...TCTG...3'
+3'...AGAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: MspJI
+Position: 139-143
+
+5'...TTTG...3'
+3'...AAAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: MspJI
+Position: 161-165
+
+5'...TCTG...3'
+3'...AGAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: MspJI
+Position: 186-190
+
+5'...TATG...3'
+3'...ATAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: MspJI
+Position: 201-205
+
+5'...TAAG...3'
+3'...ATTC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: Nt.BstNBI
+Position: 5-10
+
+5'...GACTC...3'
+3'...CTGAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: MlyI
+Position: 5-10
+
+5'...GACTC...3'
+3'...CTGAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: PleI
+Position: 5-10
+
+5'...GACTC...3'
+3'...CTGAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: SfaNI
+Position: 104-109
+
+5'...GATGC...3'
+3'...CTACG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2342 D4ZHLFP1:52:D237LACXX:3:1101:20990:21322 length=216
+Enzyme: HphI
+Position: 122-127
+
+5'...TCACC...3'
+3'...AGTGG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: MluCI
+Position: 58-62
+
+5'...AATT...3'
+3'...TTAA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: MluCI
+Position: 78-82
+
+5'...AATT...3'
+3'...TTAA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: MluCI
+Position: 135-139
+
+5'...AATT...3'
+3'...TTAA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: MluCI
+Position: 155-159
+
+5'...AATT...3'
+3'...TTAA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: BceAI
+Position: 111-116
+
+5'...ACGGC...3'
+3'...TGCCG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: BtsIMutI
+Position: 82-87
+
+5'...CAGTG...3'
+3'...GTCAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: FatI
+Position: 97-101
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: FatI
+Position: 116-120
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: CviAII
+Position: 97-101
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: CviAII
+Position: 116-120
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: NlaIII
+Position: 97-101
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: NlaIII
+Position: 116-120
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: FspEI
+Position: 9-11
+
+5'...CC...3'
+3'...GG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: FspEI
+Position: 22-24
+
+5'...CC...3'
+3'...GG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: FspEI
+Position: 27-29
+
+5'...CC...3'
+3'...GG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: FspEI
+Position: 41-43
+
+5'...CC...3'
+3'...GG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: FspEI
+Position: 49-51
+
+5'...CC...3'
+3'...GG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: FspEI
+Position: 70-72
+
+5'...CC...3'
+3'...GG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: FspEI
+Position: 102-104
+
+5'...CC...3'
+3'...GG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: FspEI
+Position: 115-117
+
+5'...CC...3'
+3'...GG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: FspEI
+Position: 125-127
+
+5'...CC...3'
+3'...GG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: FspEI
+Position: 139-141
+
+5'...CC...3'
+3'...GG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: FspEI
+Position: 149-151
+
+5'...CC...3'
+3'...GG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: FspEI
+Position: 184-186
+
+5'...CC...3'
+3'...GG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: Nt.CviPII
+Position: 9-12
+
+5'...CCA...3'
+3'...GGT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: Nt.CviPII
+Position: 22-25
+
+5'...CCT...3'
+3'...GGA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: Nt.CviPII
+Position: 27-30
+
+5'...CCA...3'
+3'...GGT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: Nt.CviPII
+Position: 41-44
+
+5'...CCT...3'
+3'...GGA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: Nt.CviPII
+Position: 49-52
+
+5'...CCT...3'
+3'...GGA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: Nt.CviPII
+Position: 70-73
+
+5'...CCT...3'
+3'...GGA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: Nt.CviPII
+Position: 102-105
+
+5'...CCG...3'
+3'...GGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: Nt.CviPII
+Position: 115-118
+
+5'...CCA...3'
+3'...GGT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: Nt.CviPII
+Position: 125-128
+
+5'...CCT...3'
+3'...GGA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: Nt.CviPII
+Position: 140-143
+
+5'...CCG...3'
+3'...GGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: Nt.CviPII
+Position: 150-153
+
+5'...CCT...3'
+3'...GGA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: Nt.CviPII
+Position: 185-188
+
+5'...CCT...3'
+3'...GGA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: LpnPI
+Position: 27-31
+
+5'...CCAG...3'
+3'...GGTC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: LpnPI
+Position: 41-45
+
+5'...CCTG...3'
+3'...GGAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: LpnPI
+Position: 125-129
+
+5'...CCTG...3'
+3'...GGAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: LpnPI
+Position: 185-189
+
+5'...CCTG...3'
+3'...GGAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: StyD4I
+Position: 27-32
+
+5'...CCAGG...3'
+3'...GGTCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: StyD4I
+Position: 185-190
+
+5'...CCTGG...3'
+3'...GGACC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: ScrFI
+Position: 27-32
+
+5'...CCAGG...3'
+3'...GGTCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: ScrFI
+Position: 185-190
+
+5'...CCTGG...3'
+3'...GGACC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: BsaJI
+Position: 27-33
+
+5'...CCAGGG...3'
+3'...GGTCCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: BsaJI
+Position: 184-190
+
+5'...CCCTGG...3'
+3'...GGGACC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: BslI
+Position: 22-33
+
+5'...CCTTACCAGGG...3'
+3'...GGAATGGTCCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: BslI
+Position: 184-195
+
+5'...CCCTGGTAAGG...3'
+3'...GGGACCATTCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: MnlI
+Position: 49-53
+
+5'...CCTC...3'
+3'...GGAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: MnlI
+Position: 150-154
+
+5'...CCTC...3'
+3'...GGAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: HpyAV
+Position: 70-75
+
+5'...CCTTC...3'
+3'...GGAAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: PspGI
+Position: 27-32
+
+5'...CCAGG...3'
+3'...GGTCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: PspGI
+Position: 185-190
+
+5'...CCTGG...3'
+3'...GGACC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: BstNI
+Position: 27-32
+
+5'...CCAGG...3'
+3'...GGTCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: BstNI
+Position: 185-190
+
+5'...CCTGG...3'
+3'...GGACC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: BcgI
+Position: 109-121
+
+5'...CGACGGCCATGC...3'
+3'...GCTGCCGGTACG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: BstUI
+Position: 13-17
+
+5'...CGCG...3'
+3'...GCGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: BstUI
+Position: 200-204
+
+5'...CGCG...3'
+3'...GCGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: Hpy99I
+Position: 103-108
+
+5'...CGTCG...3'
+3'...GCAGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: Hpy99I
+Position: 109-114
+
+5'...CGACG...3'
+3'...GCTGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: AbaSI
+Position: 9-31
+
+5'...CCAACGCGCAAAACCTTACCAG...3'
+3'...GGTTGCGCGTTTTGGAATGGTC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: AbaSI
+Position: 42-64
+
+5'...CTGAGAACCTCTTAGAAATTTG...3'
+3'...GACTCTTGGAGAATCTTTAAAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: AbaSI
+Position: 70-92
+
+5'...CCTTCGGGAATTCAGTGACAGG...3'
+3'...GGAAGCCCTTAAGTCACTGTCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: AbaSI
+Position: 125-147
+
+5'...CCTGTCACTGAATTCCCGAAGG...3'
+3'...GGACAGTGACTTAAGGGCTTCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: AbaSI
+Position: 153-175
+
+5'...CAAATTTCTAAGAGGTTCTCAG...3'
+3'...GTTTAAAGATTCTCCAAGAGTC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: AbaSI
+Position: 180-202
+
+5'...CAAACCCTGGTAAGGTTTTGCG...3'
+3'...GTTTGGGACCATTCCAAAACGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: MspJI
+Position: 1-5
+
+5'...CTGA...3'
+3'...GACT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: MspJI
+Position: 9-13
+
+5'...CCAA...3'
+3'...GGTT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: MspJI
+Position: 13-17
+
+5'...CGCG...3'
+3'...GCGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: MspJI
+Position: 17-21
+
+5'...CAAA...3'
+3'...GTTT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: MspJI
+Position: 23-27
+
+5'...CTTA...3'
+3'...GAAT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: MspJI
+Position: 27-31
+
+5'...CCAG...3'
+3'...GGTC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: MspJI
+Position: 41-45
+
+5'...CCTG...3'
+3'...GGAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: MspJI
+Position: 52-56
+
+5'...CTTA...3'
+3'...GAAT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: MspJI
+Position: 74-78
+
+5'...CGGG...3'
+3'...GCCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: MspJI
+Position: 88-92
+
+5'...CAGG...3'
+3'...GTCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: MspJI
+Position: 97-101
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: MspJI
+Position: 116-120
+
+5'...CATG...3'
+3'...GTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: MspJI
+Position: 125-129
+
+5'...CCTG...3'
+3'...GGAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: MspJI
+Position: 132-136
+
+5'...CTGA...3'
+3'...GACT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: MspJI
+Position: 139-143
+
+5'...CCCG...3'
+3'...GGGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: MspJI
+Position: 151-155
+
+5'...CTCA...3'
+3'...GAGT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: MspJI
+Position: 160-164
+
+5'...CTAA...3'
+3'...GATT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: MspJI
+Position: 170-174
+
+5'...CTCA...3'
+3'...GAGT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: MspJI
+Position: 180-184
+
+5'...CAAA...3'
+3'...GTTT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: MspJI
+Position: 185-189
+
+5'...CCTG...3'
+3'...GGAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: MspJI
+Position: 200-204
+
+5'...CGCG...3'
+3'...GCGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: MspJI
+Position: 211-215
+
+5'...CTCA...3'
+3'...GAGT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: BspCNI
+Position: 170-175
+
+5'...CTCAG...3'
+3'...GAGTC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: BspCNI
+Position: 211-216
+
+5'...CTCAG...3'
+3'...GAGTC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: DdeI
+Position: 1-6
+
+5'...CTGAG...3'
+3'...GACTC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: DdeI
+Position: 42-47
+
+5'...CTGAG...3'
+3'...GACTC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: DdeI
+Position: 52-57
+
+5'...CTTAG...3'
+3'...GAATC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: DdeI
+Position: 160-165
+
+5'...CTAAG...3'
+3'...GATTC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: DdeI
+Position: 170-175
+
+5'...CTCAG...3'
+3'...GAGTC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: DdeI
+Position: 211-216
+
+5'...CTCAG...3'
+3'...GAGTC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: EcoRI EcoRI-HF®
+Position: 77-83
+
+5'...GAATTC...3'
+3'...CTTAAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: EcoRI EcoRI-HF®
+Position: 134-140
+
+5'...GAATTC...3'
+3'...CTTAAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: Nt.BstNBI
+Position: 207-212
+
+5'...GAGTC...3'
+3'...CTCAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: MlyI
+Position: 207-212
+
+5'...GAGTC...3'
+3'...CTCAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: PleI
+Position: 207-212
+
+5'...GAGTC...3'
+3'...CTCAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: HinfI
+Position: 5-10
+
+5'...GACTC...3'
+3'...CTGAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: HinfI
+Position: 207-212
+
+5'...GAGTC...3'
+3'...CTCAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: HhaI
+Position: 14-18
+
+5'...GCGC...3'
+3'...CGCG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: HhaI
+Position: 199-203
+
+5'...GCGC...3'
+3'...CGCG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: HinP1I
+Position: 14-18
+
+5'...GCGC...3'
+3'...CGCG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: HinP1I
+Position: 199-203
+
+5'...GCGC...3'
+3'...CGCG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: FokI
+Position: 174-179
+
+5'...GGATG...3'
+3'...CCTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: BtsCI
+Position: 174-179
+
+5'...GGATG...3'
+3'...CCTAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: HaeIII
+Position: 100-104
+
+5'...GGCC...3'
+3'...CCGG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: HaeIII
+Position: 113-117
+
+5'...GGCC...3'
+3'...CCGG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: NlaIV
+Position: 66-72
+
+5'...GGTGCC...3'
+3'...CCACGG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: NlaIV
+Position: 145-151
+
+5'...GGCACC...3'
+3'...CCGTGG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: BanI
+Position: 66-72
+
+5'...GGTGCC...3'
+3'...CCACGG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: BanI
+Position: 145-151
+
+5'...GGCACC...3'
+3'...CCGTGG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: SalI SalI-HF®
+Position: 104-110
+
+5'...GTCGAC...3'
+3'...CAGCTG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: Nt.BsmAI
+Position: 209-214
+
+5'...GTCTC...3'
+3'...CAGAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: BsmAI BcoDI
+Position: 209-214
+
+5'...GTCTC...3'
+3'...CAGAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: AccI
+Position: 104-110
+
+5'...GTCGAC...3'
+3'...CAGCTG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: Hpy166II
+Position: 104-110
+
+5'...GTCGAC...3'
+3'...CAGCTG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: Tsp45I
+Position: 84-89
+
+5'...GTGAC...3'
+3'...CACTG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: Tsp45I
+Position: 128-133
+
+5'...GTCAC...3'
+3'...CAGTG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: HincII
+Position: 104-110
+
+5'...GTCGAC...3'
+3'...CAGCTG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: TspRI
+Position: 80-89
+
+5'...TTCAGTGAC...3'
+3'...AAGTCACTG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: TspRI
+Position: 128-137
+
+5'...GTCACTGAA...3'
+3'...CAGTGACTT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: ApoI ApoI-HF
+Position: 57-63
+
+5'...AAATTT...3'
+3'...TTTAAA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: ApoI ApoI-HF
+Position: 77-83
+
+5'...GAATTC...3'
+3'...CTTAAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: ApoI ApoI-HF
+Position: 134-140
+
+5'...GAATTC...3'
+3'...CTTAAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: ApoI ApoI-HF
+Position: 154-160
+
+5'...AAATTT...3'
+3'...TTTAAA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: CviKI-1
+Position: 100-104
+
+5'...GGCC...3'
+3'...CCGG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: CviKI-1
+Position: 113-117
+
+5'...GGCC...3'
+3'...CCGG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: MmeI
+Position: 8-14
+
+5'...TCCAAC...3'
+3'...AGGTTG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: TaqI-v2
+Position: 105-109
+
+5'...TCGA...3'
+3'...AGCT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: Hpy188I
+Position: 212-217
+
+5'...TCAGA...3'
+3'...AGTCT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: Hpy188III
+Position: 40-46
+
+5'...TCCTGA...3'
+3'...AGGACT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: Hpy188III
+Position: 73-79
+
+5'...TCGGGA...3'
+3'...AGCCCT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: Hpy188III
+Position: 138-144
+
+5'...TCCCGA...3'
+3'...AGGGCT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: Hpy188III
+Position: 171-177
+
+5'...TCAGGA...3'
+3'...AGTCCT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: HpyCH4V
+Position: 95-99
+
+5'...TGCA...3'
+3'...ACGT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: HpyCH4V
+Position: 118-122
+
+5'...TGCA...3'
+3'...ACGT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: EaeI
+Position: 99-105
+
+5'...TGGCCG...3'
+3'...ACCGGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: EaeI
+Position: 112-118
+
+5'...CGGCCA...3'
+3'...GCCGGT...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: BceAI
+Position: 101-106
+
+5'...GCCGT...3'
+3'...CGGCA...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: BtsIMutI
+Position: 130-135
+
+5'...CACTG...3'
+3'...GTGAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: FspEI
+Position: 30-32
+
+5'...GG...3'
+3'...CC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: FspEI
+Position: 65-67
+
+5'...GG...3'
+3'...CC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: FspEI
+Position: 75-77
+
+5'...GG...3'
+3'...CC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: FspEI
+Position: 90-92
+
+5'...GG...3'
+3'...CC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: FspEI
+Position: 100-102
+
+5'...GG...3'
+3'...CC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: FspEI
+Position: 113-115
+
+5'...GG...3'
+3'...CC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: FspEI
+Position: 145-147
+
+5'...GG...3'
+3'...CC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: FspEI
+Position: 166-168
+
+5'...GG...3'
+3'...CC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: FspEI
+Position: 174-176
+
+5'...GG...3'
+3'...CC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: FspEI
+Position: 188-190
+
+5'...GG...3'
+3'...CC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: FspEI
+Position: 193-195
+
+5'...GG...3'
+3'...CC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: FspEI
+Position: 206-208
+
+5'...GG...3'
+3'...CC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: Nt.CviPII
+Position: 29-32
+
+5'...AGG...3'
+3'...TCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: Nt.CviPII
+Position: 64-67
+
+5'...AGG...3'
+3'...TCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: Nt.CviPII
+Position: 74-77
+
+5'...CGG...3'
+3'...GCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: Nt.CviPII
+Position: 89-92
+
+5'...AGG...3'
+3'...TCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: Nt.CviPII
+Position: 99-102
+
+5'...TGG...3'
+3'...ACC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: Nt.CviPII
+Position: 112-115
+
+5'...CGG...3'
+3'...GCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: Nt.CviPII
+Position: 144-147
+
+5'...AGG...3'
+3'...TCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: Nt.CviPII
+Position: 165-168
+
+5'...AGG...3'
+3'...TCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: Nt.CviPII
+Position: 173-176
+
+5'...AGG...3'
+3'...TCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: Nt.CviPII
+Position: 187-190
+
+5'...TGG...3'
+3'...ACC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: Nt.CviPII
+Position: 192-195
+
+5'...AGG...3'
+3'...TCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: Nt.CviPII
+Position: 205-208
+
+5'...TGG...3'
+3'...ACC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: LpnPI
+Position: 28-32
+
+5'...CAGG...3'
+3'...GTCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: LpnPI
+Position: 88-92
+
+5'...CAGG...3'
+3'...GTCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: LpnPI
+Position: 172-176
+
+5'...CAGG...3'
+3'...GTCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: LpnPI
+Position: 186-190
+
+5'...CTGG...3'
+3'...GACC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: MnlI
+Position: 63-67
+
+5'...GAGG...3'
+3'...CTCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: MnlI
+Position: 164-168
+
+5'...GAGG...3'
+3'...CTCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: HpyAV
+Position: 142-147
+
+5'...GAAGG...3'
+3'...CTTCC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: BcgI
+Position: 96-108
+
+5'...GCATGGCCGTCG...3'
+3'...CGTACCGGCAGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: MspJI
+Position: 2-6
+
+5'...TGAG...3'
+3'...ACTC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: MspJI
+Position: 33-37
+
+5'...TTTG...3'
+3'...AAAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: MspJI
+Position: 53-57
+
+5'...TTAG...3'
+3'...AATC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: MspJI
+Position: 60-64
+
+5'...TTTG...3'
+3'...AAAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: MspJI
+Position: 72-76
+
+5'...TTCG...3'
+3'...AAGC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: MspJI
+Position: 81-85
+
+5'...TCAG...3'
+3'...AGTC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: MspJI
+Position: 161-165
+
+5'...TAAG...3'
+3'...ATTC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: MspJI
+Position: 171-175
+
+5'...TCAG...3'
+3'...AGTC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: MspJI
+Position: 190-194
+
+5'...TAAG...3'
+3'...ATTC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: MspJI
+Position: 196-200
+
+5'...TTTG...3'
+3'...AAAC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: MspJI
+Position: 204-208
+
+5'...TTGG...3'
+3'...AACC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: MspJI
+Position: 212-216
+
+5'...TCAG...3'
+3'...AGTC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: BspCNI
+Position: 1-6
+
+5'...CTGAG...3'
+3'...GACTC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: BspCNI
+Position: 42-47
+
+5'...CTGAG...3'
+3'...GACTC...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: Nt.BstNBI
+Position: 5-10
+
+5'...GACTC...3'
+3'...CTGAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: MlyI
+Position: 5-10
+
+5'...GACTC...3'
+3'...CTGAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: PleI
+Position: 5-10
+
+5'...GACTC...3'
+3'...CTGAG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: FokI
+Position: 38-43
+
+5'...CATCC...3'
+3'...GTAGG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: BtsCI
+Position: 38-43
+
+5'...CATCC...3'
+3'...GTAGG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: Nt.BsmAI
+Position: 3-8
+
+5'...GAGAC...3'
+3'...CTCTG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: BsmAI BcoDI
+Position: 3-8
+
+5'...GAGAC...3'
+3'...CTCTG...5'
+
+---------------------
+---------------------
+
+Sequence: SRR1614671.2483 D4ZHLFP1:52:D237LACXX:3:1101:3184:22701 length=216
+Enzyme: MmeI
+Position: 203-209
+
+5'...GTTGGA...3'
+3'...CAACCT...5'
+
+---------------------
